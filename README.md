@@ -1,5 +1,7 @@
 # 🚦 PULSE//SIGNAL — Karnataka Economic Radar
 
+**Live App:** [https://phonepe-pulse-signal-nsy7yncxuffjbmd2yycz39.streamlit.app/](https://phonepe-pulse-signal-nsy7yncxuffjbmd2yycz39.streamlit.app/)
+
 **Identifies economic hotspots in Karnataka from PhonePe Pulse-style public data
 and turns raw transaction volumes into explainable signals — momentum, emerging
 markets, and next-wave districts (excluding Bengaluru Urban).**
